@@ -30,4 +30,38 @@ To get started with the projects in this repository, follow these steps:
 We hope you find these projects inspiring and helpful in your journey with Seeed Studio's products. Happy building!
 
 <!--START_SECTION:topics-->
+
+## Topics
+
+
+### AUTOMATION
+
+| Name  | Description | Stars | Language | Update |
+| ----- | ----------- | ----- | -------- | ------ |
+
+### EDGE
+
+| Name  | Description | Stars | Language | Update |
+| ----- | ----------- | ----- | -------- | ------ |
+
+### GROVE
+
+| Name  | Description | Stars | Language | Update |
+| ----- | ----------- | ----- | -------- | ------ |
+
+### JETSON
+
+| Name  | Description | Stars | Language | Update |
+| ----- | ----------- | ----- | -------- | ------ |
+| [RAG_based_on_Jetson](https://github.com/Seeed-Projects/RAG_based_on_Jetson) | This project has implemented the RAG function on Jetson and supports TXT and PDF document formats. It uses MLC for 4-bit quantization of the Llama2-7b model, utilizes ChromaDB as the vector database, and connects these features with Lama_Index. I hope you like this project. | 0 | Python | this month |
+
+### SENSECAP
+
+| Name  | Description | Stars | Language | Update |
+| ----- | ----------- | ----- | -------- | ------ |
+
+### XIAO
+
+| Name  | Description | Stars | Language | Update |
+| ----- | ----------- | ----- | -------- | ------ |
 <!--END_SECTION:topics-->
