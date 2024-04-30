@@ -6,7 +6,7 @@
 
 <div align="center">
   
-# 👋**Seeed Projects**👋
+<h1>👋<b>Seeed Projects</b>👋</h1>
 
 Welcome to **Seeed Projects**, a collection of demos and examples showcasing the capabilities of Seeed Studio products. This repository serves as a resource hub for developers, makers, and technology enthusiasts looking to explore and implement projects using Seeed Studio's innovative platforms.
 
