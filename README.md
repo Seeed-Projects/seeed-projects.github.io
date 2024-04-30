@@ -48,6 +48,7 @@ We hope you find these projects inspiring and helpful in your journey with Seeed
 
 | Name  | Description | Stars | Language | Update |
 | ----- | ----------- | ----- | -------- | ------ |
+| [grove-visionv2-indicator](https://github.com/Seeed-Projects/grove-visionv2-indicator) | The demo built with Grove vision v2 and SenseCAP indicator | 0 | C | this month |
 
 ### JETSON
 
