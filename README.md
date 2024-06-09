@@ -53,7 +53,7 @@ We hope you find these projects inspiring and helpful in your journey with Seeed
 
 | Name  | Description | Stars | Language | Update |
 | ----- | ----------- | ----- | -------- | ------ |
-| [RAG_based_on_Jetson](https://github.com/Seeed-Projects/RAG_based_on_Jetson) | This project has implemented the RAG function on Jetson and supports TXT and PDF document formats. It uses MLC for 4-bit quantization of the Llama2-7b model, utilizes ChromaDB as the vector database, and connects these features with Lama_Index. I hope you like this project. | 2 | Python | last month |
+| [RAG_based_on_Jetson](https://github.com/Seeed-Projects/RAG_based_on_Jetson) | This project has implemented the RAG function on Jetson and supports TXT and PDF document formats. It uses MLC for 4-bit quantization of the Llama2-7b model, utilizes ChromaDB as the vector database, and connects these features with Lama_Index. I hope you like this project. | 3 | Python | last month |
 
 ### SENSECAP
 
