@@ -53,8 +53,8 @@ We hope you find these projects inspiring and helpful in your journey with Seeed
 
 | Name  | Description | Stars | Language | Update |
 | ----- | ----------- | ----- | -------- | ------ |
-| [reComputer-Jetson-for-Beginners](https://github.com/Seeed-Projects/reComputer-Jetson-for-Beginners) | Beginner's Guide to reComputer Jetson | 93 | Python | this month |
-| [jetson-examples](https://github.com/Seeed-Projects/jetson-examples) | The jetson-examples repository by Seeed Studio offers a seamless, one-line command deployment to run vision AI and Generative AI models on the NVIDIA Jetson platform. | 76 | Shell | this month |
+| [reComputer-Jetson-for-Beginners](https://github.com/Seeed-Projects/reComputer-Jetson-for-Beginners) | Beginner's Guide to reComputer Jetson | 94 | Python | last month |
+| [jetson-examples](https://github.com/Seeed-Projects/jetson-examples) | The jetson-examples repository by Seeed Studio offers a seamless, one-line command deployment to run vision AI and Generative AI models on the NVIDIA Jetson platform. | 81 | Shell | this month |
 | [RAG_based_on_Jetson](https://github.com/Seeed-Projects/RAG_based_on_Jetson) | This project has implemented the RAG function on Jetson and supports TXT and PDF document formats. It uses MLC for 4-bit quantization of the Llama2-7b model, utilizes ChromaDB as the vector database, and connects these features with Llama_Index. I hope you like this project. | 7 | Python | 5 months ago |
 
 ### SENSECAP
